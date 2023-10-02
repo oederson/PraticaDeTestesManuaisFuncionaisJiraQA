@@ -3,7 +3,7 @@
 ## Objetivo da Sprint:
 * Implementar as funcionalidades de "Visualizar Histórico de Compras" e "Recuperar Senha Esquecida" para melhorar a experiência do cliente.
 
-## História do Usuário:
+## User Story:
 * Visualizar Histórico de Compras
 * Recuperar Senha Esquecida
 
