@@ -5,3 +5,5 @@
 
 # Status do quadro sprint 
 ![Sprint](imagens/StatusQuadroSprint.png)
+# Plano de fluxo de trabalho
+![Plano de fluxo de trabalho](PlanoDeFluxoDeTrabalho/FLUXOTRABALHO.png)
